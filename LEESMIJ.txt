@@ -1,0 +1,15 @@
+OPNAMEFORMULIER - GEBRUIK ZONDER WEBSITE
+
+Optie 1 - PDF (werkt zonder extra app)
+1. Open Opnameformulier.pdf in de Bestanden-app.
+2. Tik op een vak en typ de maat in cm.
+3. Deel het ingevulde bestand via het Deel-icoon (bijv. Mail of Outlook).
+   Foto's voeg je in de mail zelf toe.
+Tip: maak per opname eerst een kopie van het bestand (lang indrukken > Dupliceer).
+
+Optie 2 - HTML (met foto's en knop 'Kopieer voor mail')
+Safari kan geen bestanden uit Downloads openen. Gebruik een app die dat wel kan,
+bijvoorbeeld 'Documents by Readdle':
+1. Zet Opnameformulier.html in de Documents-app.
+2. Tik op het bestand; het opent in de ingebouwde weergave.
+GPS hangt af van die app en werkt mogelijk niet.
